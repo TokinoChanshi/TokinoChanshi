@@ -1,144 +1,129 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,35:111827,70:4f46e5,100:8b5cf6&text=TokinoChanshi&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=AI%20Application%20Builder%20%C2%B7%20Multimodal%20Infrastructure%20%C2%B7%20Aesthetic%20Systems&descAlignY=58&animation=fadeIn" alt="header" />
+  <img src="./assets/profile-hero.svg" alt="TokinoChanshi profile hero" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=900&color=E5E7EB&center=true&vCenter=true&width=980&lines=Turning+chaos+into+order.;Building+AI-facing+products%2C+media+systems%2C+and+multimodal+infrastructure.;Aesthetic+thinking+%C3%97+workflow+engineering+%C3%97+product+execution." alt="typing animation" />
+  <img src="./assets/aesthetic-motion.svg" alt="Aesthetic motion line" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/TokinoChanshi"><img src="https://komarev.com/ghpvc/?username=TokinoChanshi&label=Profile%20views&color=0f172a&style=flat-square" alt="profile views" /></a>
-  <a href="https://www.sundershifter.com"><img src="https://img.shields.io/badge/Website-sundershifter.com-0f172a?style=flat-square" alt="website" /></a>
-  <a href="https://forge.sundershifter.com"><img src="https://img.shields.io/badge/Product-Pixel%20Forge-4f46e5?style=flat-square" alt="product" /></a>
-  <a href="mailto:dfzxdf249@gmail.com"><img src="https://img.shields.io/badge/Email-dfzxdf249%40gmail.com-dc2626?style=flat-square" alt="email" /></a>
-</p>
-
-<br />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TokinoChanshi&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TokinoChanshi&theme=transparent&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TokinoChanshi&layout=compact&theme=transparent&hide_border=true" height="150" />
+  <a href="https://www.sundershifter.com">Website</a> ·
+  <a href="https://forge.sundershifter.com">Pixel Forge</a> ·
+  <a href="mailto:1256206460@qq.com">1256206460@qq.com</a> ·
+  <a href="https://www.liblib.art/userpage/0ae0c099e0e34a8fadce71e3aba1f531/publish">Liblib Models</a>
 </p>
 
 ---
 
-## About Me
+## 中文 / Chinese
 
-I build **AI-facing products**, **multimodal API bridges**, and **media delivery systems**.
+我是 **TokinoChanshi**，一个把 **AI 创作、审美判断、工作流工程与产品系统** 放在同一条链路里构建的人。
 
-My work sits at the intersection of:
+我的背景来自 **环境设计**：空间、结构、光影、材质、叙事动线，这些训练让我更习惯用“系统”而不是“单点技巧”理解创作。现在我主要在做：
 
-- **Aesthetic direction** — turning visual taste into model behavior
-- **System design** — making workflows controllable, reproducible, and scalable
-- **Product execution** — shipping usable interfaces, delivery chains, and public-facing software
+- **AI 图像 / 视频工作流**：把视觉风格、光影质感与生成过程沉淀成可复现流程；
+- **多模态 API 与中转系统**：把模型能力封装成可接入、可运营、可迭代的软件接口；
+- **媒体分发与图库系统**：围绕图片、视频、对象存储、Cloudflare 与管理后台做完整交付链；
+- **Web 产品工程**：从前台体验、后台管理、部署、域名、缓存到上线闭环。
 
-Background in **environmental design**, now focused on translating aesthetic logic into:
+> 我不只是使用 AI 工具，而是尝试把工具变成系统。  
+> I don't just use AI tools — I turn tools into systems.
 
-- image / video generation pipelines
-- multimodal API infrastructure
-- object storage + delivery systems
-- frontend product surfaces
+### 核心信号
 
-> I don't just use tools. I try to turn tools into systems.
-
----
-
-## Core Signals
-
-<p align="center">
-  <img src="https://img.shields.io/badge/73%2B-Delivered%20Models-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/907K%2B-Verified%20Runs%20%2F%20Downloads-4f46e5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Image%20%2F%20Video%20%2F%20API-Full%20Chain%20Execution-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System--First-AI%20Product%20Engineering-0f766e?style=for-the-badge" />
-</p>
+| 指标 | 说明 |
+|---|---|
+| **73+** | 已交付 LoRA / Checkpoint 模型 |
+| **907K+** | Liblib 等平台真实使用 / 下载数据 |
+| **AI Image / Video** | 图像、视频、工作流与生成链路 |
+| **API / Infra / Product** | 中转服务、媒体分发、对象存储、前后台产品工程 |
 
 ---
 
-## Selected Projects
+## English
+
+I'm **TokinoChanshi** — building at the intersection of **aesthetic systems**, **multimodal AI infrastructure**, and **product engineering**.
+
+My background in **environmental design** shaped how I think: space, structure, lighting, material, and narrative flow are not just visual concepts — they are systems. I now translate that thinking into AI-native software:
+
+- **Image / video generation workflows** with controllable aesthetic direction;
+- **Multimodal API bridges** that turn model capability into usable product interfaces;
+- **Media delivery systems** based on object storage, Cloudflare, galleries, and admin tooling;
+- **Web products** with real deployment, routing, caching, operations, and launch readiness.
+
+My goal is simple:
+
+> make AI creation controllable, reproducible, scalable, and usable.
+
+---
+
+## Selected Work / 代表项目
 
 ### [G-Rec](https://github.com/TokinoChanshi/G-Rec)
-Agentic coding system focused on **structured workflows**, **persistent engineering context**, and codebase understanding at system scale.
+Agentic coding system focused on structured workflows, persistent engineering context, and codebase understanding at system scale.  
+面向工程上下文、长期记忆与自动化调试循环的 AI resident engineer 系统。
 
 ### [GPT-image-api](https://github.com/TokinoChanshi/GPT-image-api)
-Lightweight multimodal image API bridge that converts advanced visual capability into **GPT-compatible product interfaces**.
+A lightweight multimodal image API bridge that converts advanced visual capability into GPT-compatible product interfaces.  
+将视觉理解、多图对话与图像能力封装成可调用的 API 桥接层。
 
 ### [scope-image-orchestrator](https://github.com/TokinoChanshi/scope-image-orchestrator)
-Structured image generation orchestration inspired by the **SCOPE** paper: prompt decomposition, provider routing, visual audit, and repair loops.
+Structured image generation orchestration: prompt decomposition, provider routing, visual audit, and repair loops.  
+面向复杂图像生成任务的结构化编排、审计与修复系统。
 
 ### [Liblib Model Profile](https://www.liblib.art/userpage/0ae0c099e0e34a8fadce71e3aba1f531/publish)
-73+ delivered LoRA / Checkpoint models with **907K+** verified runs and downloads across platform usage.
+73+ delivered LoRA / Checkpoint models with 907K+ verified usage and downloads.  
+模型训练、审美微调与可复现工作流的真实平台数据沉淀。
 
 ---
 
 ## Aesthetic × Systems × Product
 
-| Dimension | What I care about | What it becomes |
+| Dimension | English | 中文 |
 |---|---|---|
-| Aesthetic | lighting, atmosphere, composition, texture | model tuning / visual direction |
-| Systems | SOPs, workflows, reproducibility, orchestration | controllable generation pipelines |
-| Product | public UX, admin flow, delivery, launch readiness | usable software, not just demos |
+| **Aesthetic** | lighting, atmosphere, composition, texture | 光影、氛围、构图、材质 |
+| **Systems** | SOPs, orchestration, reproducibility | 流程、编排、可复现 |
+| **Product** | UX, admin flow, delivery, launch | 前台体验、后台管理、交付上线 |
 
 ---
 
-## Stack
+## Stack / 技术栈
 
-**Frontend**
+**Frontend**  
+Next.js · React · TypeScript · Tailwind CSS
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+**Backend / Infra**  
+Node.js · Python · FastAPI · Docker · Nginx · Cloudflare · OCI Object Storage
 
-**Backend / Infra**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![OCI](https://img.shields.io/badge/OCI-C74634?style=flat-square&logo=oracle&logoColor=white)
-
-**AI / Workflow**
-
-![ComfyUI](https://img.shields.io/badge/ComfyUI-111827?style=flat-square)
-![OpenAI Compatible](https://img.shields.io/badge/OpenAI--Compatible_API-111827?style=flat-square)
-![Image Workflow](https://img.shields.io/badge/Image_Workflow-7c3aed?style=flat-square)
-![Video Pipeline](https://img.shields.io/badge/Video_Pipeline-0f766e?style=flat-square)
-![Automation](https://img.shields.io/badge/Automation-334155?style=flat-square)
+**AI / Workflow**  
+ComfyUI · LoRA / Checkpoint Training · OpenAI-compatible APIs · Image Workflow · Video Pipeline · Automation
 
 ---
 
-## Motion / Contribution Layer
+## Motion Layer / 动态层
 
-### Snake Animation
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+    <img alt="github contribution snake" src="dist/github-snake.svg" />
+  </picture>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github contribution snake" src="dist/github-snake.svg" />
-</picture>
-
-### 3D Contribution Surface
-
-![](./profile-3d-contrib/profile-green-animate.svg)
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution surface" />
+</p>
 
 ---
 
-## Contact
+## Contact / 联系方式
 
 - Website: https://www.sundershifter.com
 - Product: https://forge.sundershifter.com
+- Email: **1256206460@qq.com**
 - GitHub: https://github.com/TokinoChanshi
-- Email: dfzxdf249@gmail.com
-- Model Profile: https://www.liblib.art/userpage/0ae0c099e0e34a8fadce71e3aba1f531/publish
-
----
+- Liblib: https://www.liblib.art/userpage/0ae0c099e0e34a8fadce71e3aba1f531/publish
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:111827,50:4f46e5,100:8b5cf6&section=footer" />
+  <img src="./assets/footer-line.svg" alt="footer line" />
 </p>
