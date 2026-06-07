@@ -1,0 +1,30 @@
+<svg width="1000" height="280" viewBox="0 0 1000 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="surface" x1="220" y1="30" x2="780" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="0.45" stop-color="#4f46e5"/>
+      <stop offset="1" stop-color="#0f766e"/>
+    </linearGradient>
+    <style>
+      @keyframes lift { 0%,100% { transform: translateY(0); opacity:.5; } 50% { transform: translateY(-18px); opacity:1; } }
+      @keyframes sweep { 0% { transform: translateX(-260px); opacity:0; } 20%,80% { opacity:1; } 100% { transform: translateX(260px); opacity:0; } }
+      .bar1 { animation: lift 3.2s ease-in-out infinite; }
+      .bar2 { animation: lift 3.2s ease-in-out .25s infinite; }
+      .bar3 { animation: lift 3.2s ease-in-out .5s infinite; }
+      .bar4 { animation: lift 3.2s ease-in-out .75s infinite; }
+      .sweep { animation: sweep 5s ease-in-out infinite; }
+    </style>
+  </defs>
+  <rect width="1000" height="280" rx="28" fill="#050505"/>
+  <path d="M210 206L500 66L790 206L500 258L210 206Z" fill="url(#surface)" fill-opacity="0.34" stroke="#a78bfa" stroke-opacity="0.22"/>
+  <g transform="translate(282 92) skewY(-16)">
+    <rect class="bar1" x="0" y="82" width="48" height="72" rx="8" fill="#4f46e5"/>
+    <rect class="bar2" x="78" y="54" width="48" height="100" rx="8" fill="#7c3aed"/>
+    <rect class="bar3" x="156" y="24" width="48" height="130" rx="8" fill="#8b5cf6"/>
+    <rect class="bar4" x="234" y="66" width="48" height="88" rx="8" fill="#14b8a6"/>
+    <rect class="bar2" x="312" y="38" width="48" height="116" rx="8" fill="#6366f1"/>
+    <rect class="bar3" x="390" y="78" width="48" height="76" rx="8" fill="#22c55e"/>
+  </g>
+  <rect class="sweep" x="390" y="54" width="220" height="2" rx="1" fill="#e9d5ff"/>
+  <text x="500" y="248" text-anchor="middle" fill="#cbd5e1" font-size="16" font-family="Inter, ui-sans-serif, system-ui">3D contribution surface · placeholder until Action generation</text>
+</svg>
