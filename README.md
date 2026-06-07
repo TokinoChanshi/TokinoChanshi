@@ -1,8 +1,4 @@
 <p align="center">
-  <sub>PROFILE README · 高美学背景 × AI 系统工程 × 产品化交付</sub>
-</p>
-
-<p align="center">
   <img src="./assets/profile-hero.svg" alt="TokinoChanshi profile hero" />
 </p>
 
@@ -11,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.sundershifter.com">Website</a> ·
-  <a href="https://forge.sundershifter.com">Pixel Forge</a> ·
-  <a href="mailto:1256206460@qq.com">1256206460@qq.com</a> ·
-  <a href="https://www.liblib.art/userpage/0ae0c099e0e34a8fadce71e3aba1f531/publish">Liblib Models</a>
+  <a href="https://www.sundershifter.com"><kbd>Website</kbd></a>
+  <a href="https://forge.sundershifter.com"><kbd>Pixel Forge</kbd></a>
+  <a href="mailto:1256206460@qq.com"><kbd>1256206460@qq.com</kbd></a>
+  <a href="https://www.liblib.art/userpage/0ae0c099e0e34a8fadce71e3aba1f531/publish"><kbd>Liblib Models</kbd></a>
 </p>
 
 ---
