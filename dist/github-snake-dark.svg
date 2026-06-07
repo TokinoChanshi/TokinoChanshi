@@ -1,0 +1,20 @@
+<svg width="1000" height="180" viewBox="0 0 1000 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="snake" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0f172a"/>
+      <stop offset="0.35" stop-color="#4f46e5"/>
+      <stop offset="0.7" stop-color="#c4b5fd"/>
+      <stop offset="1" stop-color="#14b8a6"/>
+    </linearGradient>
+    <style>
+      @keyframes dash { to { stroke-dashoffset: -820; } }
+      @keyframes breathe { 0%,100% { opacity:.55; } 50% { opacity:1; } }
+      .path { stroke-dasharray: 18 18; animation: dash 10s linear infinite; }
+      .text { animation: breathe 3.4s ease-in-out infinite; }
+    </style>
+  </defs>
+  <rect width="1000" height="180" rx="22" fill="#050505"/>
+  <path class="path" d="M70 102 C160 28 255 158 360 88 S560 38 650 98 S815 150 930 62" stroke="url(#snake)" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="930" cy="62" r="11" fill="#c4b5fd"/>
+  <text class="text" x="500" y="150" text-anchor="middle" fill="#cbd5e1" font-size="15" font-family="Inter, ui-sans-serif, system-ui">Contribution animation · Run GitHub Actions to generate the real snake</text>
+</svg>
