@@ -1,4 +1,8 @@
 <p align="center">
+  <sub>PROFILE README · 高美学背景 × AI 系统工程 × 产品化交付</sub>
+</p>
+
+<p align="center">
   <img src="./assets/profile-hero.svg" alt="TokinoChanshi profile hero" />
 </p>
 
